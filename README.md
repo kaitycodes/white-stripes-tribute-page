@@ -1,5 +1,3 @@
 # white-stripes-tribute-page
 
-Welcome to my White Stripes Tribute Page repository! 
-
-This is a project I created as part of completing the Responsive Web Deisgn Certification curriculum. 
+Welcome to my tribute page for one of my favorite bands: The White Stripes. I created this responsive webpage with HTML and CSS while completing freeCodeCamp's Responsive Web Design Certification curriculum.
